@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Guide.unity
     guid: 793baab7f4fd8b441ab1eb9d4fb93062
+  - enabled: 1
+    path: Assets/Scenes/TwoByTwo.unity
+    guid: b0ba02316bdf23b45a625ba57829ad6a
   m_configObjects: {}

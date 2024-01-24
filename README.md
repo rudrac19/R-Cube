@@ -19,7 +19,17 @@ CHANGE LOG*
 
 # Open Source
 
-Hi! We recently made R-Cube an open-source project! This would be great for developers who want to mod this game or see how the game works! DO NOT SELL THIS PRODUCT FOR ANY PURPOSE WITHOUT ATTRIBUTION!!!**
+Hi! We recently made R-Cube an open-source project! This would be great for developers who want to mod this game or see how the game works! With that in mind, we can finally publish beta releases. Their version listings will be formatted like so:
+
+  beta version (next update version).(next minor update).(the beta version for that)
+  
+  ex:
+  beta version 1.8.0.23
+  
+  ex:
+  beta version 2.6.4.71
+
+Please do not sell this product for any price without attribution.**
 
 #
 

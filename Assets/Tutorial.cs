@@ -11,11 +11,10 @@ public class Tutorial : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        if (tutorialIsOver!)
+        if (tutorialIsOver == false)
         {
             Debug.Log("Tutorial Started");
             tutorial.SetTrigger("Start");
-            tutorialIsOver = true;
         }
     }
 }

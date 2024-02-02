@@ -4532,7 +4532,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2140397013503878302, guid: 124e92caf0934b9489bd03ab59e479f9, type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 2140397013503878302, guid: 124e92caf0934b9489bd03ab59e479f9, type: 3}
       propertyPath: m_AnchorMax.x
@@ -7379,8 +7379,8 @@ RectTransform:
   - {fileID: 391542376}
   - {fileID: 2076644150}
   - {fileID: 424954951}
-  - {fileID: 1020648860}
   - {fileID: 1888655238}
+  - {fileID: 1020648860}
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -8819,8 +8819,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Use the 2 buttons \non the top right corner\n to go to home or change\n
-    the background."
+  m_Text: "Use the 2 buttons \non the top right corner\n to go to home or change\nthe
+    background."
 --- !u!222 &1873087203
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8965,7 +8965,7 @@ RectTransform:
   m_Children:
   - {fileID: 27259940}
   m_Father: {fileID: 1569723560}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}

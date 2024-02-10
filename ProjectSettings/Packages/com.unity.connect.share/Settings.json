@@ -6,7 +6,7 @@
             {
                 "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "buildOutputDirList",
-                "value": "{\"m_Value\":\"D:/Rudra Pratap Chauhan/Unity/Unity Projects (D)/R-Cube/Builds/WebGl/R-Cube 1.2;C:/Users/rukam/OneDrive/Desktop/Unity Projects/R-Cube/R-Cube/WebGL Builds/R-Cube 1.1;C:/Users/rukam/OneDrive/Desktop/Unity/R-Cube/R-Cube/Builds/WebGL/R-Cube for PC;C:/Users/rukam/OneDrive/Desktop/Unity/R-Cube/R-Cube/Builds/WebGL/R-Cube;C:/Users/rukam/OneDrive/Desktop/Unity/R-Cube/R-Cube/Builds/WebGL;;;;;\"}"
+                "value": "{\"m_Value\":\"D:/Rudra Pratap Chauhan/Unity/Unity Projects D/Builds/R-Cube 1.3 WebGL;D:/Rudra Pratap Chauhan/Unity/Unity Projects (D)/R-Cube/Builds/WebGl/R-Cube 1.2;C:/Users/rukam/OneDrive/Desktop/Unity Projects/R-Cube/R-Cube/WebGL Builds/R-Cube 1.1;C:/Users/rukam/OneDrive/Desktop/Unity/R-Cube/R-Cube/Builds/WebGL/R-Cube for PC;C:/Users/rukam/OneDrive/Desktop/Unity/R-Cube/R-Cube/Builds/WebGL/R-Cube;C:/Users/rukam/OneDrive/Desktop/Unity/R-Cube/R-Cube/Builds/WebGL;;;;\"}"
             },
             {
                 "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",

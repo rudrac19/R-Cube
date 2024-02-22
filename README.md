@@ -38,8 +38,16 @@ Hi! We recently made R-Cube an open-source project! This would be great for deve
 
 Please do not sell this product for any price without attribution.**
 
+# Release Dates
+
+1.3 (February 11, 2024)
+1.4 (2024)
+
 #
 
 *subject to change
 #
 **unless permitted by me, Rudra Pratap Chauhan (rcpython2@gmail.com).
+
+
+![W7wZNp](https://github.com/rudrac19/R-Cube/assets/97199437/d6e30757-b5ce-4560-8f3a-2bf08614059d)

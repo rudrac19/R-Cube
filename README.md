@@ -41,7 +41,9 @@ Please do not sell this product for any price without attribution.**
 # Release Dates
 
 1.3 (February 11, 2024)
+1.3.1 (April 21, 2024)
 1.4 (2024)
+1.4.1 (2024)
 
 #
 

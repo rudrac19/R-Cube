@@ -14,15 +14,23 @@ CHANGE LOG
 
 # 1.4 (2024)
 
-In the 1.4 update, we are bringing one of our requested features into this thrilling game! Here at RCPython, we love to read feedback, and we read many bugs and features you guys told us! We compiled them all in this update. You can see the change log for the 1.4 updates here:
+In the 1.4 update, we brought one of our most requested features into this thrilling game! You can see the change log for the 1.4 updates here:
 
-CHANGE LOG*
+CHANGE LOG
 
 - Added 2x2
 - Added music
-- New icon
 - Fixed Bugs
 
+# 1.5 (2025)
+
+In the 1.5 update, we want to improve the 1.4 update. In 1.4, even though  we did get the 2x2 in, it came with a comprise: buttons. And now we want to remove them. These are some things you can expect:
+
+CHANGE LOG*
+
+- Removed buttons for 2x2 interaction
+- Added more music
+- Fixed Bugs
 
 # Open Source
 
@@ -42,9 +50,10 @@ Please do not sell this product for any price without attribution.**
 
 1.3 (February 11, 2024)
 1.3.1 (April 21, 2024)
-1.4 (2024)
-1.4.1 (2024)
-
+1.4 (August 16, 2024)
+1.5 (February 9, 2025)
+1.5.1 (April 19, 2025)
+1.5.2 (August 14, 2025)*
 #
 
 *subject to change

@@ -24,12 +24,12 @@ CHANGE LOG
 
 # 1.5 (2025)
 
-In the 1.5 update, we want to improve the 1.4 update. In 1.4, even though  we did get the 2x2 in, it came with a comprise: buttons. And now we want to remove them. These are some things you can expect:
+In the 1.5 update, we want to improve the game by removing and fixing annoying things about the game and fixing many bugs. 1.5.1 and 1.5.2 will eventually remove the 2x2 buttons.
 
 CHANGE LOG*
 
-- Removed buttons for 2x2 interaction
-- Added more music
+- Fixed music
+- Added Sovle for 2x2
 - Fixed Bugs
 
 # Open Source
@@ -54,7 +54,7 @@ Please do not sell this product for any price without attribution.**
 
 1.4 (August 16, 2024)
 
-1.5 (February 9, 2025)
+1.5 (February 8, 2025)
 
 
 1.5.1 (April 19, 2025)

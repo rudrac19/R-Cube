@@ -56,10 +56,9 @@ Please do not sell this product for any price without attribution.**
 
 1.5 (February 8, 2025)
 
+1.5.1 (August 14, 2025)*
 
-1.5.1 (April 19, 2025)
-
-1.5.2 (August 14, 2025)*
+1.5.2 (September 7, 2025)*
 #
 
 *subject to change
